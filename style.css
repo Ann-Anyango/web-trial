@@ -1,0 +1,79 @@
+.heading{
+     display: flex;
+     gap: 12%;
+    
+}
+#house{
+    font-style: italic;
+    color: yellow;
+}
+
+.body{
+    background-color: lightgoldenrodyellow;
+}
+.chicken{
+    float: left;
+    padding: 5% 4px;
+}
+.Deliciouse{
+    float: right;
+    /* justify-content: right; */
+    padding-right: 30%; 
+
+}
+.subscribe{
+    float: right;
+    top: 3px;
+    color: yellow;
+}
+
+.health{
+    display: flex;
+    justify-content: left;
+    padding-left: 8px;
+}
+.onlinefood{
+    display: flex;
+}
+.image1{
+    display: flex; 
+    
+    width:1000% ;
+     gap:15% ;
+
+
+} 
+.specialoffer{
+    display: flex;
+
+}
+.offer{
+    display: flex;
+}
+.qualityfood{
+    margin-left: 500px;
+}
+.service{
+    display: flex;
+    gap: 100px;
+}
+.client{
+    display: flex;
+    /* align-content: center; */
+    text-align: center;
+}
+.end{
+    display: flex;
+background-color: #0a0a0a;
+color: #999b9c;
+}
+
+
+
+.apps{
+    display: flex;
+    margin-bottom: 12%;
+}
+.icon{
+    color: yellow;
+}
